@@ -1,0 +1,7 @@
+Amit,1
+Avinash,2
+Anisha,3
+Manan,4
+Daksh,5
+Simran,6
+Kriti,7
