@@ -1,0 +1,5 @@
+Assignment 1:
+Write a program which create a concordance of characters occurring in a string 
+(i.e which characters occur where in a string). Read the string from the command line.
+Example:  java Concordance Hello World
+{d=[9], o=[4, 6], r=[7], W=[5], H=[0], l=[2, 3, 8], e=[1]}
